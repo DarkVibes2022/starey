@@ -10,4 +10,7 @@ cd discord-js-example-bot
 npm install
 ```
 
+- Wait for all the dependencies to be installed
+- Fill the .env file with the token of your Discord Bot
+
 After installation finishes follow configuration instructions then run `npm run start` to start the bot.
