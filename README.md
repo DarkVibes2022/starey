@@ -1,4 +1,4 @@
-# 💠 Discord.js Example Bot
+# 💠 Starey
 
 > This bot is built with JavaScript, discord.js & uses Command Handler from discordjs.guide
 
